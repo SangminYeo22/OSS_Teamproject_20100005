@@ -2,7 +2,8 @@
 <img src="https://img.shields.io/badge/Python 3.9.13-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ![Scene1](https://user-images.githubusercontent.com/113530185/206900862-b6648dd3-ab97-4d13-99cc-fdf190cf9bbd.png)
-
+![Scene2](https://user-images.githubusercontent.com/113530185/206900908-936b732d-d171-46e0-beb5-001ca228001f.png)
+![Scene3](https://user-images.githubusercontent.com/113530185/206900909-57d631d2-7381-4d20-986f-084eb8f02508.png)
 
 프로젝트의 개요설명
 서비스의 스크립션 이미지 or GIF 이미지(데모)
